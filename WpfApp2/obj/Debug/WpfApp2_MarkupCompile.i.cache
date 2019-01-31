@@ -1,0 +1,20 @@
+﻿WpfApp2
+
+
+winexe
+C#
+.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\
+WpfApp2
+none
+false
+DEBUG;TRACE
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\App.xaml
+701530749297
+
+97611242176
+16793130321
+CartesianChart\Basic Bars\BasicColumn.xaml;CartesianChart\Basic Bars\BasicRowExample.xaml;CartesianChart\Basic Stacked Bar\BasicStackedColumnExample.xaml;CartesianChart\Basic Stacked Bar\BasicStackedRowPercentageExample.xaml;CartesianChart\BasicLine\BasicLineExample.xaml;CartesianChart\Bubbles\BubblesExample.xaml;CartesianChart\Chart to Image\ChartToImageSample.xaml;CartesianChart\ConstantChanges\ConstantChangesChart.xaml;CartesianChart\Customized Series\CustomizedLineSeries.xaml;CartesianChart\CustomTooltipAndLegend\CustomersLegend.xaml;CartesianChart\CustomTooltipAndLegend\CustomersTooltip.xaml;CartesianChart\CustomTooltipAndLegend\CustomTooltipAndLegendExample.xaml;CartesianChart\CustomZoomingAndPanning\MoveMe.xaml;CartesianChart\DataLabelTemplate\DataLabelTemplateSample.xaml;CartesianChart\DateAxis\DateAxisExample.xaml;CartesianChart\DynamicVisibility\DynamicVisibilityExample.xaml;CartesianChart\Energy Predictions\EnergyPredictionExample.xaml;CartesianChart\Events\EventsExample.xaml;CartesianChart\Financial\CandleStickExample.xaml;CartesianChart\Financial\OhclExample.xaml;CartesianChart\FullyResponsive\FullyResponsiveExample.xaml;CartesianChart\Funnel Chart\FunnelExample.xaml;CartesianChart\GanttChart\GanttExample.xaml;CartesianChart\HeatChart\HeatSeriesExample.xaml;CartesianChart\InLineSyntax\InLineSyntaxTest.xaml;CartesianChart\Inverted Series\Inverted Example.xaml;CartesianChart\Irregular Intervals\IrregularIntervalsExample.xaml;CartesianChart\Labels\LabelsExample.xaml;CartesianChart\Labels\LabelsHorizontalExample.xaml;CartesianChart\LineExample\LineExample.xaml;CartesianChart\Linq\LinqExample.xaml;CartesianChart\LogarithmScale\LogarithmScaleExample.xaml;CartesianChart\ManualZAndP\ManualZAndPExample.xaml;CartesianChart\MaterialCards\MaterialCards.xaml;CartesianChart\Missing Line Points\MissingPointsExample.xaml;CartesianChart\MixingSeries\MixingSeries.xaml;CartesianChart\MultiAxes\MultiAxesChart.xaml;CartesianChart\NegativeStackedRow\NEgativeStackedRowExample.xaml;CartesianChart\PointShapeLine\PointShapeLineExample.xaml;CartesianChart\PointState\PointStateExample.xaml;CartesianChart\Scatter With Pies\Scatter With Pies.xaml;CartesianChart\ScatterPlot\ScatterExample.xaml;CartesianChart\SectionsDragable\DragableSections.xaml;CartesianChart\SectionsMouseMove\SectionMouseMoveSample.xaml;CartesianChart\Sections\SectionsExample.xaml;CartesianChart\SharedTooltip\SharedTooltipExample.xaml;CartesianChart\SolidColorChart\SolidColorExample.xaml;CartesianChart\StackedArea\StackedAreaExample.xaml;CartesianChart\StackedArea\VerticalStackedAreaExample.xaml;CartesianChart\StackedBar\StackedColumnExample.xaml;CartesianChart\StackedBar\StackedRowExample.xaml;CartesianChart\StepLine\StepLineExample.xaml;CartesianChart\ThreadSafe\ThreadSafeExample.xaml;CartesianChart\TypesSupport\TypesPlotting.xaml;CartesianChart\UIElements\EventAControl.xaml;CartesianChart\UIElements\EventBControl.xaml;CartesianChart\UIElements\SelectedItemControl.xaml;CartesianChart\UIElements\UiElementsExample.xaml;CartesianChart\Using DateTime\DateTime.xaml;CartesianChart\WindowAxis\WindowAxisExample.xaml;CartesianChart\ZoomingAndPanning\ZoomingAndPanning.xaml;CartesianChart\zzIssues\Issue179.xaml;Gauges\AngularGaugeExmple.xaml;Gauges\Gauge360.xaml;MainWindow.xaml;Gauges\PointShapeLine.xaml;Maps\GeoMapExample.xaml;PieChart\DoughnutChartExample.xaml;PieChart\DropDowns\PieDropDownSample.xaml;PieChart\PieChartExample.xaml;
+
+True
+

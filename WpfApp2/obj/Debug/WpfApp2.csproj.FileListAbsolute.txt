@@ -1,0 +1,160 @@
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\LiveCharts.dll
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\LiveCharts.Wpf.dll
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\MahApps.Metro.dll
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\System.Windows.Interactivity.dll
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\MahApps.Metro.pdb
+c:\users\divi\source\repos\WpfApp2\WpfApp2\bin\Debug\MahApps.Metro.xml
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+c:\users\divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\PointShapeLine.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\PointShapeLine.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Stacked Bar\BasicStackedColumnExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DataLabelTemplate\DataLabelTemplateSample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DateAxis\DateAxisExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Events\EventsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\InLineSyntax\InLineSyntaxTest.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Irregular Intervals\IrregularIntervalsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Missing Line Points\MissingPointsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedBar\StackedRowExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Using DateTime\DateTime.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Bars\BasicColumn.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Bars\BasicRowExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Stacked Bar\BasicStackedColumnExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Stacked Bar\BasicStackedRowPercentageExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\BasicLine\BasicLineExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Bubbles\BubblesExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Chart to Image\ChartToImageSample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ConstantChanges\ConstantChangesChart.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Customized Series\CustomizedLineSeries.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomersLegend.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomersTooltip.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomTooltipAndLegendExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DataLabelTemplate\DataLabelTemplateSample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DateAxis\DateAxisExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DynamicVisibility\DynamicVisibilityExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Energy Predictions\EnergyPredictionExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Events\EventsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Financial\CandleStickExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Financial\OhclExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\FullyResponsive\FullyResponsiveExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Funnel Chart\FunnelExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\GanttChart\GanttExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\HeatChart\HeatSeriesExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\InLineSyntax\InLineSyntaxTest.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Inverted Series\Inverted Example.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Irregular Intervals\IrregularIntervalsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Labels\LabelsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Labels\LabelsHorizontalExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\LineExample\LineExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Linq\LinqExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\LogarithmScale\LogarithmScaleExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ManualZAndP\ManualZAndPExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MaterialCards\MaterialCards.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Missing Line Points\MissingPointsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MixingSeries\MixingSeries.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MultiAxes\MultiAxesChart.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\NegativeStackedRow\NEgativeStackedRowExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\PointShapeLine\PointShapeLineExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\PointState\PointStateExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Scatter With Pies\Scatter With Pies.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ScatterPlot\ScatterExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SectionsDragable\DragableSections.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SectionsMouseMove\SectionMouseMoveSample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Sections\SectionsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SharedTooltip\SharedTooltipExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SolidColorChart\SolidColorExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedArea\StackedAreaExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedArea\VerticalStackedAreaExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedBar\StackedColumnExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedBar\StackedRowExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StepLine\StepLineExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ThreadSafe\ThreadSafeExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\TypesSupport\TypesPlotting.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\EventAControl.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\EventBControl.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\SelectedItemControl.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\UiElementsExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Using DateTime\DateTime.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\WindowAxis\WindowAxisExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ZoomingAndPanning\ZoomingAndPanning.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\zzIssues\Issue179.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\AngularGaugeExmple.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\Gauge360.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Maps\GeoMapExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\DoughnutChartExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\DropDowns\PieDropDownSample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\PieChartExample.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomZoomingAndPanning\MoveMe.g.cs
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Bars\BasicColumn.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Bars\BasicRowExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Basic Stacked Bar\BasicStackedRowPercentageExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\BasicLine\BasicLineExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Bubbles\BubblesExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Chart to Image\ChartToImageSample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ConstantChanges\ConstantChangesChart.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Customized Series\CustomizedLineSeries.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomersLegend.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomersTooltip.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomTooltipAndLegend\CustomTooltipAndLegendExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\CustomZoomingAndPanning\MoveMe.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\DynamicVisibility\DynamicVisibilityExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Energy Predictions\EnergyPredictionExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Financial\CandleStickExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Financial\OhclExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\FullyResponsive\FullyResponsiveExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Funnel Chart\FunnelExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\GanttChart\GanttExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\HeatChart\HeatSeriesExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Inverted Series\Inverted Example.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Labels\LabelsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Labels\LabelsHorizontalExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\LineExample\LineExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Linq\LinqExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\LogarithmScale\LogarithmScaleExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ManualZAndP\ManualZAndPExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MaterialCards\MaterialCards.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MixingSeries\MixingSeries.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\MultiAxes\MultiAxesChart.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\NegativeStackedRow\NEgativeStackedRowExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\PointShapeLine\PointShapeLineExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\PointState\PointStateExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Scatter With Pies\Scatter With Pies.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ScatterPlot\ScatterExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SectionsDragable\DragableSections.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SectionsMouseMove\SectionMouseMoveSample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\Sections\SectionsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SharedTooltip\SharedTooltipExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\SolidColorChart\SolidColorExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedArea\StackedAreaExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedArea\VerticalStackedAreaExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StackedBar\StackedColumnExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\StepLine\StepLineExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ThreadSafe\ThreadSafeExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\TypesSupport\TypesPlotting.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\EventAControl.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\EventBControl.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\SelectedItemControl.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\UIElements\UiElementsExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\WindowAxis\WindowAxisExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\ZoomingAndPanning\ZoomingAndPanning.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\CartesianChart\zzIssues\Issue179.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\AngularGaugeExmple.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Gauges\Gauge360.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\Maps\GeoMapExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\DoughnutChartExample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\DropDowns\PieDropDownSample.baml
+C:\Users\Divi\source\repos\WpfApp2\WpfApp2\obj\Debug\PieChart\PieChartExample.baml
